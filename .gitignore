@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Plugin archives
+*.zip
+
+# Dependencies
+node_modules/
+vendor/
